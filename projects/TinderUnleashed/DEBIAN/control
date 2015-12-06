@@ -1,0 +1,9 @@
+Package: com.bootlegspider.tinderunleashed
+Name: TinderUnleashed
+Version: 1.0.4-1
+Architecture: iphoneos-arm
+Description: An Awesome Tinder Tweak that allows you to view users without the need to swipe.
+Maintainer: BootlegSpider <manba4590@gmail.com>
+Author: BootlegSpider <manba4590@gmail.com>
+Sponsor: 
+Section: Tweaks
